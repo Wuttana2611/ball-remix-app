@@ -1,6 +1,6 @@
 function MyBolgs(){
-   var title = "xxx";
-   var description = "yyy...";
+   var title = "มหาลัย";
+   var description = "ร่มรื่น";
    var  rating = 3;
    let enabled = true;
    const pi = 2.14;
@@ -28,7 +28,7 @@ function MyBolgs(){
         <p><strong>หัวข้อ:</strong> {title}</p>    
         <p><strong>รายระเอียด:</strong> {description}</p>
         <p><strong>ชื่นชอบ:</strong> {getRating2(rating)}</p>
-        <p><strong>อื่นๆ </strong>:........</p><br />
+        <p><strong>อื่นๆ </strong>:ขอให้มีความสุข</p><br />
         <h1 className="text-lg font-bold">Comments:</h1>
         <Comment
           avatar="/images/author_1.jpg"
