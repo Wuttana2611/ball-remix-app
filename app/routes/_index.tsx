@@ -137,7 +137,7 @@ const resources = [
   },
   {
     href: "/getToDoLists",
-    text: "Week05:To Do Lists",
+    text: "Week05 To Do Lists",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
